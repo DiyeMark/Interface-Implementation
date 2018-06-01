@@ -1,0 +1,12 @@
+1. Compile the java files.
+
+2. Run remote object registry  called  rmiregistry.
+
+3. Run the Server class.
+
+4. Run the client class. You can see it is prompting for input.
+
+5. Type some text. Input is received by remote server
+
+6. Client receives reply from remote server.
+
